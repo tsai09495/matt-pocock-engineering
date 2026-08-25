@@ -29,6 +29,8 @@ Restart Codex or open a new task after installation. In the desktop app, select 
 Review this project's code structure and find the highest-leverage improvement.
 ```
 
+For all 19 skills, including when to use them, outputs, boundaries, workflow combinations, and copyable examples, see the [complete capability guide and user manual (Chinese)](docs/MATT-POCOCK-ENGINEERING-GUIDE.zh-CN.md).
+
 ## Core concepts
 
 ### 1. Compose focused workflows instead of running one giant process

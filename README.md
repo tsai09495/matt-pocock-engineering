@@ -29,6 +29,8 @@ codex plugin add matt-engineering@matt-pocock-engineering
 检查当前项目的代码结构，找出最值得优化的地方。
 ```
 
+需要了解全部 19 个 skills 的适用场景、产物、边界、组合方式和可复制示例，请阅读[完整能力说明与使用手册](docs/MATT-POCOCK-ENGINEERING-GUIDE.zh-CN.md)。
+
 ## 核心概念
 
 ### 1. 用工作流组合代替单一大流程
