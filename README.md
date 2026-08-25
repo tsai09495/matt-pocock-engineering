@@ -6,7 +6,7 @@
 
 ## 这是什么
 
-<img src="plugins/matt-engineering/assets/icon.png" alt="Matt Pocock Engineering" width="180">
+<img src="plugins/matt-engineering/assets/readme-banner.jpg" alt="Matt Pocock Engineering">
 
 Matt Pocock Engineering 是一套面向 Codex 的工程工作流插件，改编自 [Matt Pocock 的 Engineering skills](https://github.com/mattpocock/skills/tree/main/skills/engineering)。
 

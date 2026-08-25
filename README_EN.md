@@ -6,7 +6,7 @@
 
 ## What it is
 
-<img src="plugins/matt-engineering/assets/icon.png" alt="Matt Pocock Engineering" width="180">
+<img src="plugins/matt-engineering/assets/readme-banner.jpg" alt="Matt Pocock Engineering">
 
 Matt Pocock Engineering is an engineering-workflow plugin for Codex, adapted from [Matt Pocock's Engineering skills](https://github.com/mattpocock/skills/tree/main/skills/engineering).
 
