@@ -1,0 +1,20 @@
+{
+  "name": "matt-pocock-engineering",
+  "interface": {
+    "displayName": "Matt Pocock Engineering"
+  },
+  "plugins": [
+    {
+      "name": "matt-engineering",
+      "source": {
+        "source": "local",
+        "path": "./plugins/matt-engineering"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+interface:
+  display_name: "To Spec"
+  short_description: "Turn established context into a durable spec draft"

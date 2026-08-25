@@ -1,0 +1,29 @@
+{
+  "name": "matt-engineering",
+  "version": "2.2.1+codex.20260823181700",
+  "description": "An unofficial, conservative Matt Pocock engineering workflow bundle for Codex.",
+  "author": {
+    "name": "Yewang Tsai"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Matt Pocock Engineering",
+    "shortDescription": "Plan, shape, implement, debug, and hand off engineering work.",
+    "longDescription": "An unofficial Codex adaptation of Matt Pocock's engineering workflows: evidence-based grilling, specs, tracer-bullet tickets, implementation, dual-axis review, debugging, research, architecture, human-run setup wizards, explicit Wayfinding, and handoff. Native skills remain the primary path; a read-only compatibility bridge can load the same installed workflow into an existing task when those skills are unavailable. Subagents, worktrees, background research, and other heavier capabilities remain explicit optional enhancements.",
+    "developerName": "Yewang Tsai",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Help me choose a Matt Pocock Engineering flow, including Wizard for human-only setup.",
+      "Stress-test this idea, then turn it into a spec and implementation tickets.",
+      "Implement this ticket and review the verified diff."
+    ],
+    "brandColor": "#22D3EE",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  }
+}

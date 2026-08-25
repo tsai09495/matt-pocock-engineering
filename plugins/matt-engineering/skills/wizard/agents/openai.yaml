@@ -1,0 +1,3 @@
+interface:
+  display_name: "Wizard"
+  short_description: "Propose a safe human-run setup wizard"

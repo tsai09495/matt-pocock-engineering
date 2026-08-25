@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mattEngineeringCompatibilityBridge": {
+      "title": "Matt Pocock Engineering Compatibility Bridge",
+      "description": "Load the installed Matt Pocock Engineering workflow into an existing task when native skills are unavailable.",
+      "cwd": ".",
+      "command": "node",
+      "args": [
+        "./mcp/server.cjs",
+        "--stdio"
+      ]
+    }
+  }
+}
