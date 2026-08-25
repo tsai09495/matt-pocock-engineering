@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="plugins/matt-engineering/assets/icon.png" alt="Matt Pocock Engineering" width="180">
+</p>
+
 # Matt Pocock Engineering for Codex
 
 [中文](#中文) · [English](#english)
@@ -13,6 +17,21 @@ Matt Pocock Engineering 是一套面向 Codex 的工程工作流插件，改编�
 它不是一个试图包办所有事情的“超级提示词”，而是把软件工程拆成 19 个目的明确的工作流：澄清问题、建立领域模型、研究、原型验证、生成规格、拆分任务、实现、测试、诊断、审查、架构改进、分流和交接。用户只需要描述当前目标，插件负责选择或建议最适合当前阶段的工作流。
 
 这套组合既适用于从零开始的新项目，也适用于已经存在的代码库和进行中的任务。
+
+### 快速开始
+
+要求：已安装支持插件的 Codex CLI 或 Codex 桌面应用。
+
+```bash
+codex plugin marketplace add tsai09495/matt-pocock-engineering
+codex plugin add matt-engineering@matt-pocock-engineering
+```
+
+安装后重启 Codex，或打开一个新任务。在桌面应用中选择 **Matt Pocock Engineering**，然后直接描述目标：
+
+```text
+检查当前项目的代码结构，找出最值得优化的地方。
+```
 
 ### 核心概念
 
@@ -83,17 +102,6 @@ Matt Pocock Engineering 是一套面向 Codex 的工程工作流插件，改编�
 ```
 
 Bug 任务通常从 Diagnosing Bugs 开始；已有项目的结构优化通常从 Improve Codebase Architecture 或 Codebase Design 开始。没有必要每次走完整条链路。
-
-### 安装
-
-要求：已安装支持插件的 Codex CLI 或 Codex 桌面应用。
-
-```bash
-codex plugin marketplace add tsai09495/matt-pocock-engineering
-codex plugin add matt-engineering@matt-pocock-engineering
-```
-
-安装后重启 Codex，或打开一个新任务。在桌面应用中，需要时选择 **Matt Pocock Engineering**。
 
 ### 如何使用
 
@@ -167,6 +175,21 @@ It is not a single “mega prompt” that tries to do everything. It separates s
 
 The combination works for both greenfield projects and existing codebases or tasks already in progress.
 
+### Quick Start
+
+Requirement: a Codex CLI or Codex desktop version with plugin support.
+
+```bash
+codex plugin marketplace add tsai09495/matt-pocock-engineering
+codex plugin add matt-engineering@matt-pocock-engineering
+```
+
+Restart Codex or open a new task after installation. In the desktop app, select **Matt Pocock Engineering**, then describe the goal directly:
+
+```text
+Review this project's code structure and find the highest-leverage improvement.
+```
+
 ### Core concepts
 
 #### 1. Compose focused workflows instead of running one giant process
@@ -236,17 +259,6 @@ Fuzzy idea
 ```
 
 Bug work usually begins with Diagnosing Bugs. Existing-codebase architecture work usually begins with Improve Codebase Architecture or Codebase Design. Most tasks do not need the entire chain.
-
-### Installation
-
-Requirement: a Codex CLI or Codex desktop version with plugin support.
-
-```bash
-codex plugin marketplace add tsai09495/matt-pocock-engineering
-codex plugin add matt-engineering@matt-pocock-engineering
-```
-
-Restart Codex or open a new task after installation. In the desktop app, select **Matt Pocock Engineering** when you want it available.
 
 ### How to use it
 
