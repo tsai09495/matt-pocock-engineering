@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="plugins/matt-engineering/assets/icon.png" alt="Matt Pocock Engineering" width="180">
-</p>
-
 # Matt Pocock Engineering for Codex
 
 [中文](#中文) · [English](#english)
@@ -11,6 +7,8 @@
 ## 中文
 
 ### 这是什么
+
+<img src="plugins/matt-engineering/assets/icon.png" alt="Matt Pocock Engineering" width="180">
 
 Matt Pocock Engineering 是一套面向 Codex 的工程工作流插件，改编自 [Matt Pocock 的 Engineering skills](https://github.com/mattpocock/skills/tree/main/skills/engineering)。
 
