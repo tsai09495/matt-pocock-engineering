@@ -1,9 +1,6 @@
 # Matt Pocock Engineering for Codex
 
-<p>
-  <a href="./README.md"><kbd>中文</kbd></a>
-  <a href="./README_EN.md"><kbd>English</kbd></a>
-</p>
+[中文](./README.md) · [English](./README_EN.md)
 
 > A Codex plugin that turns complex software-engineering work into composable workflows that can be applied one stage at a time.
 

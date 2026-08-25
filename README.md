@@ -1,9 +1,6 @@
 # Matt Pocock Engineering for Codex
 
-<p>
-  <a href="./README.md"><kbd>中文</kbd></a>
-  <a href="./README_EN.md"><kbd>English</kbd></a>
-</p>
+[中文](./README.md) · [English](./README_EN.md)
 
 > 把复杂的软件工程工作拆成一组可以按需组合、逐步推进的 Codex 工作流。
 
