@@ -1,6 +1,6 @@
 # Matt Pocock Engineering 完整能力说明与使用手册
 
-> 适用于 Matt Pocock Engineering v2.2.1。本文档解释插件的运行方式、19 个 skills 的能力边界、使用示例、组合路径和实际权衡。
+> 适用于 Matt Pocock Engineering v2.2.2。本文档解释插件的运行方式、19 个 skills 的能力边界、使用示例、组合路径和实际权衡。
 
 [返回中文 README](../README.md) · [English README](../README_EN.md)
 
@@ -1252,4 +1252,4 @@ v2 将它们改名为 `to-spec` 和 `to-tickets`。自然语言中的 PRD、requ
 
 ## 13. 版本与归属
 
-本文描述 Matt Pocock Engineering v2.2.1 的当前行为。Engineering workflow 概念和改编内容源自 [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/engineering)。本项目由 Yewang Tsai 独立适配和维护，不是 Matt Pocock 的官方发布，也不代表 Matt Pocock 对本项目的背书。
+本文描述 Matt Pocock Engineering v2.2.2 的当前行为。Engineering workflow 概念和改编内容源自 [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills/engineering)。本项目由 Yewang Tsai 独立适配和维护，不是 Matt Pocock 的官方发布，也不代表 Matt Pocock 对本项目的背书。
